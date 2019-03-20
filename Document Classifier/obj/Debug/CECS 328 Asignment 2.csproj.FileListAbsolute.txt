@@ -1,0 +1,17 @@
+c:\users\philp\documents\visual studio 2015\Projects\CECS 328 Asignment 2\CECS 328 Asignment 2\bin\Debug\CECS 328 Asignment 2.exe.config
+c:\users\philp\documents\visual studio 2015\Projects\CECS 328 Asignment 2\CECS 328 Asignment 2\bin\Debug\CECS 328 Asignment 2.exe
+c:\users\philp\documents\visual studio 2015\Projects\CECS 328 Asignment 2\CECS 328 Asignment 2\bin\Debug\CECS 328 Asignment 2.pdb
+c:\users\philp\documents\visual studio 2015\Projects\CECS 328 Asignment 2\CECS 328 Asignment 2\obj\Debug\CECS_328_Asignment_2.Form1.resources
+c:\users\philp\documents\visual studio 2015\Projects\CECS 328 Asignment 2\CECS 328 Asignment 2\obj\Debug\CECS 328 Asignment 2.csproj.GenerateResource.Cache
+c:\users\philp\documents\visual studio 2015\Projects\CECS 328 Asignment 2\CECS 328 Asignment 2\obj\Debug\CECS 328 Asignment 2.exe
+c:\users\philp\documents\visual studio 2015\Projects\CECS 328 Asignment 2\CECS 328 Asignment 2\obj\Debug\CECS 328 Asignment 2.pdb
+C:\Users\philp\documents\visual studio 2015\Projects\CECS 328 Asignment 2\CECS 328 Asignment 2\obj\Debug\CECS_328_Asignment_2.Form2.resources
+C:\Users\philp\Documents\Visual Studio 2015\Projects\CECS 328 Asignment 2\CECS 328 Asignment 2\obj\Debug\CECS_328_Asignment_2.Option1Form.resources
+C:\Users\philp\Documents\Visual Studio 2015\Projects\CECS 328 Asignment 2\CECS 328 Asignment 2\obj\Debug\CECS_328_Asignment_2.Option2Form.resources
+C:\Users\philp\Documents\Visual Studio 2015\Projects\CECS 328 Asignment 2\CECS 328 Asignment 2\obj\Debug\CECS_328_Asignment_2.Option3Form.resources
+C:\Users\philp\Documents\Visual Studio 2015\Projects\CECS 328 Asignment 2\CECS 328 Asignment 2\obj\Debug\CECS_328_Asignment_2.Option4Form.resources
+C:\Users\philp\documents\visual studio 2015\Projects\CECS 328 Asignment 2\CECS 328 Asignment 2\obj\Debug\CECS_328_Asignment_2.Option6Form.resources
+C:\Users\philp\documents\visual studio 2015\Projects\CECS 328 Asignment 2\CECS 328 Asignment 2\obj\Debug\CECS_328_Asignment_2.Option5Form.resources
+C:\Users\philp\documents\visual studio 2015\Projects\CECS 328 Asignment 2\CECS 328 Asignment 2\obj\Debug\CECS_328_Asignment_2.Option7Form.resources
+C:\Users\philp\Documents\Visual Studio 2015\Projects\CECS 328 Asignment 2\CECS 328 Asignment 2\obj\Debug\CECS 328 Asignment 2.csprojAssemblyReference.cache
+C:\Users\philp\Documents\Visual Studio 2015\Projects\CECS 328 Asignment 2\CECS 328 Asignment 2\obj\Debug\CECS 328 Asignment 2.csproj.CoreCompileInputs.cache

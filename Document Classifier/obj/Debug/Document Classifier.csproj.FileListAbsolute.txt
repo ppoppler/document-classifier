@@ -1,0 +1,18 @@
+C:\Users\Philip\Desktop\CECS 328 Asignment 2\CECS 328 Asignment 2\bin\Debug\CECS 328 Asignment 2.exe.config
+C:\Users\Philip\Desktop\CECS 328 Asignment 2\CECS 328 Asignment 2\bin\Debug\CECS 328 Asignment 2.exe
+C:\Users\Philip\Desktop\CECS 328 Asignment 2\CECS 328 Asignment 2\bin\Debug\CECS 328 Asignment 2.pdb
+C:\Users\Philip\Desktop\CECS 328 Asignment 2\CECS 328 Asignment 2\obj\Debug\Document Classifier.csprojAssemblyReference.cache
+C:\Users\Philip\Desktop\CECS 328 Asignment 2\CECS 328 Asignment 2\obj\Debug\CECS_328_Asignment_2.Form1.resources
+C:\Users\Philip\Desktop\CECS 328 Asignment 2\CECS 328 Asignment 2\obj\Debug\CECS_328_Asignment_2.Form2.resources
+C:\Users\Philip\Desktop\CECS 328 Asignment 2\CECS 328 Asignment 2\obj\Debug\CECS_328_Asignment_2.Option1Form.resources
+C:\Users\Philip\Desktop\CECS 328 Asignment 2\CECS 328 Asignment 2\obj\Debug\CECS_328_Asignment_2.Option3Form.resources
+C:\Users\Philip\Desktop\CECS 328 Asignment 2\CECS 328 Asignment 2\obj\Debug\CECS_328_Asignment_2.Option2Form.resources
+C:\Users\Philip\Desktop\CECS 328 Asignment 2\CECS 328 Asignment 2\obj\Debug\CECS_328_Asignment_2.Option5Form.resources
+C:\Users\Philip\Desktop\CECS 328 Asignment 2\CECS 328 Asignment 2\obj\Debug\CECS_328_Asignment_2.Option7Form.resources
+C:\Users\Philip\Desktop\CECS 328 Asignment 2\CECS 328 Asignment 2\obj\Debug\CECS_328_Asignment_2.Option6Form.resources
+C:\Users\Philip\Desktop\CECS 328 Asignment 2\CECS 328 Asignment 2\obj\Debug\CECS_328_Asignment_2.Option4Form.resources
+C:\Users\Philip\Desktop\CECS 328 Asignment 2\CECS 328 Asignment 2\obj\Debug\Document Classifier.csproj.GenerateResource.cache
+C:\Users\Philip\Desktop\CECS 328 Asignment 2\CECS 328 Asignment 2\obj\Debug\Document Classifier.csproj.CoreCompileInputs.cache
+C:\Users\Philip\Desktop\CECS 328 Asignment 2\CECS 328 Asignment 2\obj\Debug\CECS 328 Asignment 2.exe
+C:\Users\Philip\Desktop\CECS 328 Asignment 2\CECS 328 Asignment 2\obj\Debug\CECS 328 Asignment 2.pdb
+C:\Users\Philip\Desktop\CECS 328 Asignment 2\CECS 328 Asignment 2\bin\Debug\tokendata.mdf
